@@ -16,6 +16,7 @@ ingredient_map = {
     "cheeseburger combo": "A cheeseburger combo consists of a hamburger, an order of fries and 1 medium drink.",
     "MCS combo": "A MCS burger combo consists of a MCS burger, an order of fries and 1 medium drink.",
     "shake": "A shake is made of real ice cream."
+    "drink": "For drinks we provide 4 sizes: small, medium, large and extra large; milk, coca, and coffee are one-size."
 }
 
 option_map = {
